@@ -30,7 +30,7 @@ Power BI (Interactive Dashboards)
 Microsoft Excel (Initial Data Exploration & Cleaning)
 
 # Project Workflow
-1️. Data Cleaning & Preparation
+## 1️. Data Cleaning & Preparation
 - Handled missing values and duplicate entries
 - Standardized product categories and store names
 - Created additional columns such as:
@@ -39,20 +39,20 @@ Microsoft Excel (Initial Data Exploration & Cleaning)
   - Sales per transaction
   - Profit margin
 
-2️. Exploratory Data Analysis (EDA)
+## 2️. Exploratory Data Analysis (EDA)
 - Sales trends by month and quarter
 - Sales by product category and store location
 - Analysis of weekend vs weekday sales
 - Customer segmentation (Members vs Non-Members)
 - Identification of top 10 products by sales and profit
 
-3️. Business Insights
+## 3️. Business Insights
 - High-margin categories identified (e.g., ready-to-eat meals, sauces)
 - 25% higher sales observed on weekends
 - Repeat customer patterns and loyalty insights
 - Recommendations for promotions and inventory management
 
-4️. Visualization
+## 4️. Visualization
 - Built an interactive Power BI dashboard for stakeholders
 - Visualized key trends:
   - Sales performance over time
